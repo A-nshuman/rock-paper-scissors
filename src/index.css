@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    height: 100dvh;
+    display: grid;
+    place-items: center;
+    background: #202020;
+}
